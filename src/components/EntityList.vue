@@ -19,7 +19,7 @@ defineProps<{
       <tr>
         <th>ID</th>
         <th>Alter</th>
-        <th>Größe (cm)</th>
+        <th>Größe (m)</th>
         <th>Gewicht (kg)</th>
         <th>Datum</th>
         <th>BMI</th>
